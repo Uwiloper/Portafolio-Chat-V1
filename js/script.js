@@ -11,7 +11,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
     experiencia: [
       { texto: "He trabajado en varios proyectos personalesdonde usé PHP, JavaScript y SQL Server.\nAunque no tengo experiencia laboral en Software aún, estoy listo para aportar y seguir aprendiendo." },
-      { titulo: "Imagenartis", subtitulo: "Cargo: Diseñador Gráfico", texto: "Diseño de viniles decorativos, edición de material gráfico para redes sociales.", detalle: "Referencia: 994 097 417" }
+      { titulo: "Trabajo n°1", subtitulo: "Cargo: Junior Dev", texto: "Mantenimiento de Servicios y Landing Pages", detalle: "Referencia: 999 999 999" }
     ],
 
     proyectos: [
@@ -21,8 +21,8 @@ document.addEventListener('DOMContentLoaded', () => {
 
     formacion: [
       {texto: "Mi formación académica y certificaciones:" },
-      { titulo: "Instituto San Ignacio del Loyola", subtitulo: "2025 - Ingeniería de Software", detalle: "En curso" },
-      { titulo: "Tecnologías y Desarrollo de Software", subtitulo: "2024 - ISIL", detalle: "Certificación completada" },
+      { titulo: "Universidad", subtitulo: "Año - Carrera", detalle: "En curso" },
+      { titulo: "Tecnologías y Desarrollo de Software", subtitulo: "2024", detalle: "Certificación completada" },
       { titulo: "Inglés", subtitulo: "B1 - ISIL", detalle: "Nivel intermedio" }
     ],
     
@@ -32,16 +32,16 @@ document.addEventListener('DOMContentLoaded', () => {
       { subtitulo: "Bases de Datos", detalle: "- SQL Server" },
       { subtitulo: "Herramientas de Desarrollo", detalle: "- GitHub\n- Visual Studio Code\n- Visual Studio" },
       { subtitulo: "Otros", detalle: "Node-RED" },
-      { titulo: "Habilidades Gráficas", subtitulo: "Software", detalle: "-Adobe Illustrator\n- Adobe Photoshop" },
-      { subtitulo: "Áreas de Diseño", detalle: "-Diseño de identidad visual (Branding)\n-Rotulación vehicular\n-Creación de piezas gráficas para medios digitales y físicos" }
+      { titulo: "Habilidades Gráficas", subtitulo: "Software", detalle: "-Figma\n -Adobde Xd" },
+      { subtitulo: "Áreas de Diseño", detalle: "-Diseño UX/UI \n-Wireframes Figma \n-Wordpress Elementor" }
     ],
     
     contacto: [
       { titulo: "Contacto", subtitulo: "¿Hablamos?" },
-      { titulo: "Correo Electrónico", subtitulo: "wilmer_angel_12@hotmail.com", detalle: "Email", link: "mailto:wilmer_angel_12@hotmail.com" },
-      { titulo: "LinkedIn", subtitulo: "Wilmer Carrasco", detalle: "Perfil profesional", link: "https://www.linkedin.com/in/wilmer-carrasco-hernandez-46a009199/" },
+      { titulo: "Correo Electrónico", subtitulo: "contacto@gmail.com", detalle: "Email", link: "mailto:contacto@gmail.com" },
+      { titulo: "LinkedIn", subtitulo: "Wilmer C.", detalle: "Perfil profesional", link: "https://https://www.linkedin.com/in/uwil/" },
       { titulo: "GitHub", subtitulo: "uwiloper", detalle: "Repositorios y código", link: "https://github.com/uwiloper" },
-      { titulo: "Instagram", subtitulo: "@Uwil", detalle: "Perfil visual", link: "https://www.instagram.com/uwilcsmre/" }
+      { titulo: "Instagram", subtitulo: "@Uwil", detalle: "Perfil visual", link: "https://www.instagram.com/wilcsmre/" }
     ]
   };
 
@@ -127,8 +127,8 @@ document.addEventListener('DOMContentLoaded', () => {
   */
 
   escribirSecuencia([
-    { titulo: "¡Hola!", texto: "Soy Wilmer Carrasco 👋" },
-    { texto: "Bienvenido a mi Chat portafolio.\nSoy un Desarrollador junior con muchas ganas de crecer profesionalmente." },
-    { texto: "Elige una opción para comenzar 👇" }
+    { titulo: "¡Hola!", texto: "Este es un Portafolio Estilo Chat" },
+    { texto: "Bienvenido a mi primer proyecto.\nSoy un Desarrollador junior con interés de crecer profesionalmente." },
+    { texto: "Elige una opción para comenzar" }
   ]);
 });
